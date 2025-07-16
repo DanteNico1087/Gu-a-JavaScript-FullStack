@@ -1,2 +1,2 @@
-# Gu-a-JavaScript-FullStack
+# Guia-JavaScript-FullStack
 Guía para aprender JavaScript FullStack (React + Node)
