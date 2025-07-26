@@ -18,7 +18,7 @@
         const titulo = document.querySelector('#saludo');
         const boton = document.querySelector('#btn');
 
-        boton.addEvenListener('click', () => {
+        boton.addEventListener('click', () => {
             titulo.textContent = '¡Hola Terrícolas!'; // Al hacer click cambiará a este texto
         });
     </script>
